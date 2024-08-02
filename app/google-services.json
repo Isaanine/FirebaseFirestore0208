@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727424115431",
+    "project_id": "fir-firestore-57b21",
+    "storage_bucket": "fir-firestore-57b21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727424115431:android:4436defe94defd3508b842",
+        "android_client_info": {
+          "package_name": "br.com.empresalegal.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzGS0KP33Oo_nfRJA3-ZR5zxlpHyweYpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
